@@ -1,4 +1,4 @@
 streamlit==1.13.0
 streamlit-lottie==0.0.3 
 requests==2.25.0
-python==3.7.9
+python==3.7
